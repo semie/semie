@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @semie
-- 👀 I’m a wannabe gane dev currently using Unity.
+- 👀 I’m a wannabe game dev currently using Unity.
 - 🌱 The secret is, I'm always grumpy.
 - 💞️ I’m at that age where I could just sit back and watch it all burn!.
 - 📫 How to reach me... I am very much a hermit, soz....
