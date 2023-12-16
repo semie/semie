@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @semie
-- 👀 I’m interested in game dev currently using Unity, C# and Playmaker.
-- 🌱 I’m currently learning how survive each day.
-- 💞️ I’m looking to collaborate on small indie style games.
+- 👀 I’m a wannabe gane dev currently using Unity.
+- 🌱 The secret is, I'm always grumpy.
+- 💞️ I’m at that age where I could just sit back and watch it all burn!.
 - 📫 How to reach me... I am very much a hermit, soz....
 
 <!---
